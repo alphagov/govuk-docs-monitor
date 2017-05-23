@@ -1,4 +1,4 @@
-# Docs donkey
+# Doctrine penguin
 
 Posts a message to the GOV.UK #2ndline Slack channel if there are pages
 that need to be reviewed.
